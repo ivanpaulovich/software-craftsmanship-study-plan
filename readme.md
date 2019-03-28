@@ -1,0 +1,16 @@
+- Object-Oriented Design
+  - SOLID
+  - The Stable Dependencies Principle
+  - The Stable Abstractions Principle
+- Ports and Adapters (Hexagonal Architecture Style)
+  - Policy and Level
+  - Use Cases
+  - Component Coupling
+  - Common Closure Principle
+  - Release Reuse Equivalence Principle
+- Clean Code
+- Clean Architecture
+  - Model-View-Presenter
+  - Clean Tests
+  - Testable Architectures
+- Building Evolutionary Architectures
