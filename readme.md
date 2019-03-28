@@ -23,13 +23,15 @@
 * ISP	The Interface Segregation Principle	Make fine grained interfaces that are client specific.
 * DIP	The Dependency Inversion Principle	Depend on abstractions, not on concretions.
 
-# Lesson 2 - Component Cohesion
+# Lesson 2 - Component Design
+
+## Component Cohesion
 
 * REP	The Release Reuse Equivalency Principle	The granule of reuse is the granule of release.
 * CCP	The Common Closure Principle	Classes that change together are packaged together.
 * CRP	The Common Reuse Principle	Classes that are used together are packaged together.
 
-# Lesson 3 - Component Coupling
+## Component Coupling
 
 * ADP	The Acyclic Dependencies Principle	The dependency graph of packages must have no cycles.
 * SDP	The Stable Dependencies Principle	Depend in the direction of stability.
